@@ -1,0 +1,10 @@
+.build/
+dist/
+__pycache__/
+*.p12
+*.jks
+*password*
+collector.token
+stats.json*
+*.log
+local.properties
